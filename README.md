@@ -60,8 +60,9 @@ endmodule
 ## Output:
 ## Truthtable
 ### Half Subtractor:
-
+![image](https://user-images.githubusercontent.com/94165108/195997882-3d0dd805-4f42-4e8a-9900-0d6fb988bbfd.png)
 ### Full Subtractor:
+![image](https://user-images.githubusercontent.com/94165108/195997895-f1ee16c9-c1a1-422d-9eee-03dd2f544f92.png)
 
 ##  RTL realization
 ### Half Subtractor:
